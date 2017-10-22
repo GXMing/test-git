@@ -33,10 +33,14 @@ master22222
 
 开始分支测试5
 
-<<<<<<< HEAD
+
 切换到testbranch5
 
 切换回了master
-=======
+
 切换到testbranch5
->>>>>>> testbranch5
+
+
+
+
+测试6
