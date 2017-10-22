@@ -15,5 +15,9 @@
 17 17 17 17 合并分支master1
 18 18 18 18 切换到testbranch 要删除ee.txt
 19 19 19 19 合并分支测试2 开始
+
 21212121212 切换回master 要开始master的第一次改变
 21212121212 切换回master 要开始master的第2次改变
+
+20 20 20 20 切换到testbranch2 要开始第一次改变
+20 20 20 20 切换到testbranch2 要开始第二次改变
